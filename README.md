@@ -7,3 +7,8 @@ To use, simply run:
 make
 ```
 To quit at anytime, kill the program with ^C
+
+To clean up the directory and get rid of the executable created, simply run: 
+```
+make clean
+```
